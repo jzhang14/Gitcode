@@ -1,1 +1,1 @@
-Codes for <Data Structures and Algorithms in Python>
+Codes for Data Structures and Algorithms in Python
